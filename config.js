@@ -17,10 +17,10 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: "おはよう~ <3",
-  greetingAfternoon: "こんにちは~",
-  greetingEvening: "こんばんは~",
-  greetingNight: "寝てください!!!",
+  greetingMorning: "Bom Dia Sapin~ <3",
+  greetingAfternoon: "Boa Tarde Sapin~ :D",
+  greetingEvening: "Tardinha~ ᓚ₍⑅^..^₎♡",
+  greetingNight: "Madrugada Complicada?",
 
   // Layout
   bentoLayout: "bento", // 'bento', 'lists', 'buttons', 
@@ -38,15 +38,15 @@ const CONFIG = {
     },
     {
       id: "2",
-      name: "Facebook",
-      icon: "facebook",
-      link: "https://facebook.com/",
+      name: "Pinterest",
+      icon: "pyramid",
+      link: "https://br.pinterest.com/",
     },
     {
       id: "3",
-      name: "Reddit",
-      icon: "glasses",
-      link: "https://reddit.com",
+      name: "ChatGPT",
+      icon: "shell",
+      link: "https://chatgpt.com/",
     },
     {
       id: "4",
@@ -62,9 +62,9 @@ const CONFIG = {
     },
     {
       id: "6",
-      name: "Zalo",
+      name: "Whatsapp",
       icon: "message-circle-heart",
-      link: "https://chat.zalo.me/",
+      link: "https://web.whatsapp.com//",
     },
   ],
 };
