@@ -38,9 +38,9 @@ const CONFIG = {
     },
     {
       id: "2",
-      name: "Pinterest",
-      icon: "pyramid",
-      link: "https://br.pinterest.com/",
+      name: "Last.fm",
+      icon: "audio-waveform",
+      link: "https://www.last.fm/user/vivzieuopp/",
     },
     {
       id: "3",
